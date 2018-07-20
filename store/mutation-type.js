@@ -1,0 +1,4 @@
+export const CLASSFIY_PRODUCT = 'CLASSFIY_PRODUCT';
+export const SET_CURREN_CLASSFIY = 'SET_CURREN_CLASSFIY';
+export const SET_SEARCH = 'SET_SEARCH';
+export const CLEAR_ALL = 'CLEAR_ALL';
